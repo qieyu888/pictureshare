@@ -1,5 +1,5 @@
 name: picshare
-description: "A new Flutter project."
+description: "光影志 - 属于摄影师的沉浸式艺术社区"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev

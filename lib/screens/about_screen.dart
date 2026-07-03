@@ -140,7 +140,7 @@ class AboutScreen extends StatelessWidget {
           const SizedBox(height: 24),
           const Center(
             child: Text(
-              '© 2026 光影志 LensMate',
+              '© 2026 光影志',
               style: TextStyle(fontSize: 12, color: AppTheme.gray300),
             ),
           ),

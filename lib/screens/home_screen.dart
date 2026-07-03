@@ -111,7 +111,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   backgroundColor: AppTheme.white.withValues(alpha: 0.9),
                   surfaceTintColor: Colors.transparent,
                   title: const Text(
-                    'LensMate',
+                    '光影志',
                     style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
