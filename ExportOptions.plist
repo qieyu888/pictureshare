@@ -10,8 +10,7 @@
 	<string>app-store-connect</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>
-com.picture.chat</key>
+		<key>com.picture.chat</key>
 		<string>D6HPYF3398.com.picture.chat</string>
 	</dict>
 	<key>signingCertificate</key>
